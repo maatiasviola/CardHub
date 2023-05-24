@@ -1,0 +1,79 @@
+{"tarjetas":[
+    { 
+     "nombre":"Banco nacion",
+     "imagen":"https://bancospedia.com/wp-content/uploads/banco-nacion.jpg"	
+    },
+    { 
+     "nombre":"BBVA",
+     "imagen":"https://www.bbva.com/wp-content/uploads/2019/04/Logo-BBVA.jpg"	
+    },
+    { 
+     "nombre":"Brubank",
+     "imagen":"https://s3.amazonaws.com/blab-impact-published-production/PgKSqf7GflEAv6IXJttPH2zJkGY1bUcK"	
+    },
+    { 
+     "nombre":"Banco ciudad",
+     "imagen":"https://bancociudad.com.ar/institucional/resources/img/logobcba.jpg"	
+    },
+    { 
+     "nombre":"ICBC",
+     "imagen":"https://companieslogo.com/img/orig/1398.HK-a309de24.png?t=1633217277"	
+    },
+    { 
+     "nombre":"Banco patagonia",
+     "imagen":"https://www.uncuyo.edu.ar/prensa/cache/captura7_750_1080.png"	
+    },
+    { 
+     "nombre":"Santander",
+     "imagen":"https://companieslogo.com/img/orig/SAN-8a4d0f73.png?t=1647958776"	
+    },
+    { 
+     "nombre":"Supervielle",
+     "imagen":"https://yt3.googleusercontent.com/8Y7b9sMEUKYjd4QxfmVqvlT9EbIlpJ_NgjXneY_6cTDudx8fykPpFToVKQZpqutIIWvvqgYA=s900-c-k-c0x00ffffff-no-rj"	
+    },
+    { 
+     "nombre":"HSBC",
+     "imagen":"https://companieslogo.com/img/orig/HSBC-9c9da987.png?t=1647980897"	
+    },
+    { 
+     "nombre":"Itau",
+     "imagen":"https://tuquejasuma.com/media/cache/3d/b8/3db83f05e7477b2c837b765dfd2ca951.png"	
+    },
+    { 
+     "nombre":"Macro",
+     "imagen":"https://play-lh.googleusercontent.com/H4Wm-u7pH8WSOeHyUB5x0ajvBTuwzqX7kL6yVn5itTmUowOeciIA7UIgB8iUscofSA"	
+    },
+    { 
+     "nombre":"Banco Provinica",
+     "imagen":"https://i0.wp.com/lapridaweb.com.ar/wp-content/uploads/2021/10/image002.png?resize=629%2C694&ssl=1"	
+    },
+    { 
+     "nombre":"Galicia",
+     "imagen":"https://pbs.twimg.com/ext_tw_video_thumb/1391864576375939072/pu/img/UDZAeh2wLbmwpR0n.jpg:large"	
+    },
+    { 
+     "nombre":"Hipotecario",
+     "imagen":"https://play-lh.googleusercontent.com/s9xM1wehHzso-cuDvGSa-KDdb2OPZRP3VeIomjDym-KPfCeEPFWp1LdnDTOStWL8Wg"	
+    },
+    { 
+     "nombre":"Credicoop",
+     "imagen":"https://www.fontana-d.com/wp-content/uploads/2021/11/Credcoop-Marca.jpg"	
+    },
+    { 
+     "nombre":"Columbia",
+     "imagen":"https://play-lh.googleusercontent.com/RLJw7uPDoyyt9ZaplQL1yePGHXm9ktxOVATpZcligdKOu2ug7Vvv4mO3BA7q5DVix82k"	
+    },
+    { 
+     "nombre":"Banco Entre Rios",
+     "imagen":"https://media.licdn.com/dms/image/C4D0BAQE6rs0gzx8Pig/company-logo_200_200/0/1567180486273?e=2147483647&v=beta&t=MskDJs2RFbM_eWsShz0aqkT6kGkwRntClE45VyGQWQg"	
+    },
+    { 
+     "nombre":"Citybank",
+     "imagen":"https://logowik.com/content/uploads/images/678_citibank.jpg"	
+    },
+    { 
+     "nombre":"Banco Comafi",
+     "imagen":"https://taekwondoftb.com.ar/wp/wp-content/uploads/2014/12/bancocomafi.jpg"	
+    }   
+    ]
+}

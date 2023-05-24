@@ -1,0 +1,82 @@
+{"intereses":[
+	{
+	"nombre": "turismo",
+	"img":"https://www.uade.edu.ar/media/cm4lzbzt/turismo-y-hoteler%C3%ADa.jpg?anchor=center&mode=crop&width=1240&height=910&rnd=132963313358200000"	
+	},
+
+	{
+	"nombre":"gastronomia",
+	"img":"https://www.mamirecetas.com/wp-content/uploads/2018/11/clases-gastronomia-1280x720.jpg"
+	},
+
+	{
+	"nombre":"moda",
+	"img":"https://www.contreebute.com/hs-fs/hubfs/photo-1512436991641-6745cdb1723f.jpeg?width=800&name=photo-1512436991641-6745cdb1723f.jpeg"
+	},
+
+	{
+	"nombre":"educacion",
+	"img":"https://www.argentina.gob.ar/sites/default/files/2016/05/jumbotron_la_educacion_en_lo_mas_alto_foto_2.jpg"
+	},
+
+	{
+	"nombre":"espectaculos",
+	"img":"https://www.teatroenvalencia.com/admin/assets/img/d10276e8c4e7ea8dc16d1d2dd1380a821572002465.jpg"
+	},
+
+	{
+	"nombre":"heladerias",
+	"img":"https://media.ambito.com/p/a2849a233e4a98822baeb6e9036700ff/adjuntos/239/imagenes/037/150/0037150556/1200x675/smart/noches-las-heladeriasjpg.jpg"
+	},
+
+	{
+	"nombre":"automotor",
+	"img":"https://institutonoa.com.ar/wp-content/uploads/2021/10/electricidad_auto.jpg"
+	},
+	
+	{
+	"nombre":"tecnologia",
+	"img":"https://www.postgradoutp.edu.pe/blog/wp-content/uploads/2020/08/TECNOLOGIAS-1-770x515-1.webp"
+	},
+
+	{
+	"nombre":"mascotas",
+	"img":"https://www.bbva.ch/wp-content/uploads/2022/05/recurso_mascotas.jpg"
+	},
+
+	{
+	"nombre":"jugueterias",
+	"img":"https://www.lacapitalmdp.com/wp-content/uploads/2016/08/jugueterias.jpg"
+	},
+
+	{
+	"nombre":"supermercados",
+	"img":"https://static.dw.com/image/63584664_303.jpg"
+	},
+
+	{
+	"nombre":"combustibles",
+	"img":"https://www.elindependiente.com.ar/elindependiente/1.0/img/770151399.jpg"
+	},
+
+	{
+	"nombre":"cuidado personal",
+	"img":"https://static.mujerhoy.com/www/multimedia/201811/16/media/cortadas/cremas-farmacia-espanolas-kV5C--739x554@MujerHoy.jpg"
+	},
+
+	{
+	"nombre":"hogar",
+	"img":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/casa-hogar-consejos-1538741308.jpg"
+	},
+
+	{
+	"nombre":"entretenimiento",
+	"img":"https://insidemdp.com.ar/wp-content/uploads/2022/11/cines-mar-del-plata.jpg"
+	},
+
+	{
+	"nombre":"deporte",
+	"img":"https://img.freepik.com/fotos-premium/grupo-personas-corriendo_452079-1308.jpg"
+	}
+]
+}
